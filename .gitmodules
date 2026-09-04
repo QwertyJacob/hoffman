@@ -1,0 +1,3 @@
+[submodule "papelito"]
+	path = papelito
+	url = https://github.com/QwertyJacob/papelito.git
