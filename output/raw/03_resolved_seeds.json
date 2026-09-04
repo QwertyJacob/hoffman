@@ -1,0 +1,224 @@
+{
+  "Conscious realism and the mind-body problem": {
+    "paperId": "a99942e210221dfda38b9a8c52abbde91b5b4507",
+    "externalIds": {
+      "MAG": "2158485395",
+      "CorpusId": 3175512
+    },
+    "publicationVenue": null,
+    "title": "Conscious Realism and the Mind-Body Problem",
+    "venue": "",
+    "year": 2008,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at http://www.socsci.uci.edu/~ddhoff/ConsciousRealism2.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2259916",
+        "name": "Donald D. Hoffman"
+      }
+    ],
+    "abstract": null
+  },
+  "Objects of consciousness": {
+    "paperId": "e063f84e842df23b340cd9bbac282b206d29f971",
+    "externalIds": {
+      "MAG": "2004112058",
+      "PubMedCentral": "4060643",
+      "DOI": "10.3389/fpsyg.2014.00577",
+      "CorpusId": 985146,
+      "PubMed": "24987382"
+    },
+    "publicationVenue": {
+      "id": "89097a03-8be6-4e2d-ae2c-a6df64c77a06",
+      "name": "Frontiers in Psychology",
+      "type": "journal",
+      "alternate_names": [
+        "Front Psychol"
+      ],
+      "issn": "1664-1078",
+      "url": "http://www.frontiersin.org/Cultural_Psychology",
+      "alternate_urls": [
+        "http://frontiersin.org/psychology/",
+        "https://www.frontiersin.org/journals/psychology",
+        "http://journal.frontiersin.org/journal/psychology",
+        "http://www.frontiersin.org/psychology"
+      ]
+    },
+    "title": "Objects of consciousness",
+    "venue": "Frontiers in Psychology",
+    "year": 2014,
+    "openAccessPdf": {
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00577/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4060643, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2259916",
+        "name": "Donald D. Hoffman"
+      },
+      {
+        "authorId": "145080259",
+        "name": "C. Prakash"
+      }
+    ],
+    "abstract": "Current models of visual perception typically assume that human vision estimates true properties of physical objects, properties that exist even if unperceived. However, recent studies of perceptual evolution, using evolutionary games and genetic algorithms, reveal that natural selection often drives true perceptions to extinction when they compete with perceptions tuned to fitness rather than truth: Perception guides adaptive behavior; it does not estimate a preexisting physical truth. Moreover, shifting from evolutionary biology to quantum physics, there is reason to disbelieve in preexisting physical truths: Certain interpretations of quantum theory deny that dynamical properties of physical objects have definite values when unobserved. In some of these interpretations the observer is fundamental, and wave functions are compendia of subjective probabilities, not preexisting elements of physical reality. These two considerations, from evolutionary biology and quantum physics, suggest that current models of object perception require fundamental reformulation. Here we begin such a reformulation, starting with a formal model of consciousness that we call a \u201cconscious agent.\u201d We develop the dynamics of interacting conscious agents, and study how the perception of objects and space-time can emerge from such dynamics. We show that one particular object, the quantum free particle, has a wave function that is identical in form to the harmonic functions that characterize the asymptotic dynamics of conscious agents; particles are vibrations not of strings but of interacting conscious agents. This allows us to reinterpret physical properties such as position, momentum, and energy as properties of interacting conscious agents, rather than as preexisting physical truths. We sketch how this approach might extend to the perception of relativistic quantum objects, and to classical objects of macroscopic scale."
+  },
+  "The interface theory of perception": {
+    "paperId": "c140123e67f184e10e1e5cfa95e08d2fee730c50",
+    "externalIds": {
+      "MAG": "1766695457",
+      "DOI": "10.3758/s13423-015-0890-8",
+      "CorpusId": 256197005,
+      "PubMed": "26384988"
+    },
+    "publicationVenue": {
+      "id": "b5fb729c-41d1-4db6-b4f3-4c23f8ba5294",
+      "name": "Psychonomic Bulletin & Review",
+      "type": "journal",
+      "alternate_names": [
+        "Psychon Bull  Rev"
+      ],
+      "issn": "1069-9384",
+      "url": "https://www.springer.com/psychology/cognitive+psychology/journal/13423",
+      "alternate_urls": [
+        "https://link.springer.com/journal/13423"
+      ]
+    },
+    "title": "The Interface Theory of Perception",
+    "venue": "Psychonomic Bulletin & Review",
+    "year": 2015,
+    "openAccessPdf": {
+      "url": "https://link.springer.com/content/pdf/10.3758/s13423-015-0890-8.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3758/s13423-015-0890-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3758/s13423-015-0890-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2259916",
+        "name": "Donald D. Hoffman"
+      },
+      {
+        "authorId": "145672949",
+        "name": "Manish Singh"
+      },
+      {
+        "authorId": "145080259",
+        "name": "C. Prakash"
+      }
+    ],
+    "abstract": null
+  },
+  "Conscious agent networks: Formal analysis and application to cognition": {
+    "paperId": "9cf8a90fdf7533d679b013e710650244b315e316",
+    "externalIds": {
+      "MAG": "2765197168",
+      "DBLP": "journals/cogsr/FieldsHPS18",
+      "DOI": "10.1016/j.cogsys.2017.10.003",
+      "CorpusId": 40703125
+    },
+    "publicationVenue": {
+      "id": "6051439f-768c-4aae-a75c-3c82be5fa675",
+      "name": "Cognitive Systems Research",
+      "type": "journal",
+      "alternate_names": [
+        "Cogn Syst Res"
+      ],
+      "issn": "1389-0417",
+      "url": "http://www.elsevier.com/locate/cogsys",
+      "alternate_urls": [
+        "http://www.elsevier.com/wps/find/journaldescription.cws_home/620288/description#description",
+        "http://www.sciencedirect.com/science/journal/13890417"
+      ]
+    },
+    "title": "Conscious agent networks: Formal analysis and application to cognition",
+    "venue": "Cognitive Systems Research",
+    "year": 2018,
+    "openAccessPdf": {
+      "url": "https://escholarship.org/uc/item/2d34n6zf",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cogsys.2017.10.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cogsys.2017.10.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144993883",
+        "name": "C. Fields"
+      },
+      {
+        "authorId": "2259916",
+        "name": "Donald D. Hoffman"
+      },
+      {
+        "authorId": "145080259",
+        "name": "C. Prakash"
+      },
+      {
+        "authorId": "152964847",
+        "name": "Manish Singh"
+      }
+    ],
+    "abstract": "Abstract Networks of \u201cconscious agents\u201d (CAs) as defined by Hoffman and Prakash (2014) are shown to provide a robust and intuitive representation of perceptual and cognitive processes in the context of the Interface Theory of Perception (Hoffman, Singh and Prakash, 2015). The behavior of the simplest CA networks is analyzed exhaustively. The construction of short- and long-term memories and the implementation of attention, categorization and case-based planning are demonstrated. These results show that robust perception and cognition can be modelled independently of any ontological assumptions about the world in which an agent is embedded. Any agent-world interaction can, in particular, also be represented as an agent-agent interaction."
+  },
+  "Fitness beats truth in the evolution of perception": {
+    "paperId": "e9e8cba2cc2344447b706611126ca2d416aa8611",
+    "externalIds": {
+      "MAG": "3107081604",
+      "DOI": "10.1007/s10441-020-09400-0",
+      "CorpusId": 227158585,
+      "PubMed": "33231784"
+    },
+    "publicationVenue": {
+      "id": "3d2ef4de-9237-464a-be0e-aa11887d902c",
+      "name": "Acta Biotheoretica",
+      "type": "journal",
+      "alternate_names": [
+        "Acta Biotheor"
+      ],
+      "issn": "0001-5342",
+      "url": "https://www.springer.com/philosophy/epistemology+and+philosophy+of+science/journal/10441",
+      "alternate_urls": [
+        "https://link.springer.com/journal/10441",
+        "http://www.springer.com/philosophy/epistemology+and+philosophy+of+science/journal/10441"
+      ]
+    },
+    "title": "Fitness Beats Truth in the Evolution of Perception",
+    "venue": "Acta Biotheoretica",
+    "year": 2020,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10441-020-09400-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10441-020-09400-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "145080259",
+        "name": "C. Prakash"
+      },
+      {
+        "authorId": "33703702",
+        "name": "Kyle D Stephens"
+      },
+      {
+        "authorId": "2259916",
+        "name": "Donald D. Hoffman"
+      },
+      {
+        "authorId": "152964847",
+        "name": "Manish Singh"
+      },
+      {
+        "authorId": "144993883",
+        "name": "C. Fields"
+      }
+    ],
+    "abstract": null
+  }
+}

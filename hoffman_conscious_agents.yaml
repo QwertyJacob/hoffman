@@ -1,0 +1,69 @@
+# papelito review config: Donald Hoffman's conscious agent theory and its
+# developments. This isn't CS research -- Hoffman publishes in cognitive
+# science, psychology, and philosophy-of-mind venues, most of which arXiv
+# and DBLP (papelito's CS-centric sources) don't cover at all. So identify
+# him by author profile (see authors: below, and README.md's "Author-scoped
+# identification" section) rather than relying on venue-restricted search,
+# and leave venues unrestricted since a CS venue allow-list makes no sense
+# here.
+
+project_name: "Donald Hoffman: Conscious Agent Theory and Its Developments"
+
+# Primary identification path for this review: pulls Hoffman's ENTIRE S2
+# publication list, then keeps only papers matching a topic below. This is
+# what actually finds most of the relevant work -- arxiv/s2-topic-search/
+# snowball below are supplementary.
+authors:
+  - "Donald D. Hoffman"
+
+# Each topic is both (a) a plain-language query used against arXiv and S2
+# topic search, and (b) a keyword filter applied to Hoffman's full
+# publication list (see authors: above). Kept close to his own terminology
+# so the keyword filter doesn't drift into his unrelated earlier work
+# (1980s-90s computational/psychophysical vision: stereopsis, structure-
+# from-motion, figure-ground, visual surface perception -- real papers,
+# just not part of the conscious-agent research program).
+topics:
+  - label: "Conscious agents (core formalism)"
+    query: "conscious agents theory of consciousness formalism"
+
+  - label: "Interface theory of perception"
+    query: "interface theory of perception spacetime icons desktop"
+
+  - label: "Conscious realism"
+    query: "conscious realism physicalism idealism consciousness reality"
+
+  - label: "Fitness-beats-truth"
+    query: "fitness beats truth evolution of perception evolutionary game theory"
+
+  - label: "Objects of consciousness"
+    query: "objects of consciousness observer perception theory"
+
+  - label: "Conscious agent networks and formalism"
+    query: "conscious agent networks markov kernel decision theory combination"
+
+  - label: "Quantum and physicalist critiques"
+    query: "quantum consciousness spacetime doubt physicalism panpsychism"
+
+  - label: "Case against reality (public-facing synthesis)"
+    query: "case against reality evolution hid truth eyes"
+
+# No venue allow-list: not CS research, no sensible CS-style allow-list to
+# write, and none of these venues would be in DBLP anyway. Every found
+# paper is kept; venue is reported for information only.
+venues: []
+
+# Snowballing is OFF: the point of this review is "papers BY Donald
+# Hoffman," and citation-graph snowballing pulls in whoever else cites or
+# is cited by a seed paper -- almost all of it other researchers' work
+# (confirmed: with it on, 145/155 S2 topic-search hits and the entire
+# snowball pool had no Hoffman byline at all). authors: above, plus the
+# author-filtered topic search (see options below), already recovers his
+# full on-topic bibliography without that noise.
+options:
+  arxiv_results_per_topic: 25
+  s2_results_per_topic: 25
+  snowball: false
+  dblp_venue_confirm: false   # no venue allow-list, and DBLP has no coverage of this field anyway
+
+output_dir: output

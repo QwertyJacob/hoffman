@@ -1,0 +1,1440 @@
+{
+  "ea94bdd5e24b3d47bb9c3945ee24f87a73c3d0d3": {
+    "arxiv_id": null,
+    "s2_paper_id": "ea94bdd5e24b3d47bb9c3945ee24f87a73c3d0d3",
+    "title": "Fusions of Consciousness",
+    "published": "2023-01-01T00:00:00Z",
+    "summary": "What are conscious experiences? Can they combine to form new experiences? What are conscious subjects? Can they combine to form new subjects? Most attempts to answer these questions assume that spacetime, and some of its particles, are fundamental. However, physicists tell us that spacetime cannot be fundamental. Spacetime, they say, is doomed. We heed the physicists, and drop the assumption that spacetime is fundamental. We assume instead that subjects and experiences are entities beyond spacetime, not within spacetime. We make this precise in a mathematical theory of conscious agents, whose dynamics are described by Markov chains. We show how (1) agents combine into more complex agents, (2) agents fuse into simpler agents, and (3) qualia fuse to create new qualia. The possible dynamics of n agents form an n(n\u22121)-dimensional polytope with nn vertices\u2014the Markov polytope Mn. The total fusions of n agents and qualia form an (n\u22121)-dimensional simplex\u2014the fusion simplex Fn. To project the Markovian dynamics of conscious agents onto scattering processes in spacetime, we define a new map from Markov chains to decorated permutations. Such permutations\u2014along with helicities, or masses and spins\u2014invariantly encode all physical information used to compute scattering amplitudes. We propose that spacetime and scattering processes are a data structure that codes for interactions of conscious agents: a particle in spacetime is a projection of the Markovian dynamics of a communicating class of conscious agents.",
+    "authors": [
+      "Donald D. Hoffman",
+      "C. Prakash",
+      "R. Prentner"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Entropy",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "04e1e4015f87834a756e0cc5e2c772b1fe2d9ed8": {
+    "arxiv_id": null,
+    "s2_paper_id": "04e1e4015f87834a756e0cc5e2c772b1fe2d9ed8",
+    "title": "Perceptual Representations: Meaning and Truth Conditions",
+    "published": "2022-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Cognition and Representation",
+    "_topics": [
+      "Fitness-beats-truth",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "01768ba08412668d8b182624445ba2fb7dd2a2b1": {
+    "arxiv_id": null,
+    "s2_paper_id": "01768ba08412668d8b182624445ba2fb7dd2a2b1",
+    "title": "Fact, Fiction, and Fitness",
+    "published": "2020-01-01T00:00:00Z",
+    "summary": "A theory of consciousness, whatever else it may do, must address the structure of experience. Our perceptual experiences are richly structured. Simply seeing a red apple, swaying between green leaves on a stout tree, involves symmetries, geometries, orders, topologies, and algebras of events. Are these structures also present in the world, fully independent of their observation? Perceptual theorists of many persuasions\u2014from computational to radical embodied\u2014say yes: perception veridically presents to observers structures that exist in an observer-independent world; and it does so because natural selection shapes perceptual systems to be increasingly veridical. Here we study four structures: total orders, permutation groups, cyclic groups, and measurable spaces. We ask whether the payoff functions that drive evolution by natural selection are homomorphisms of these structures. We prove, in each case, that generically the answer is no: as the number of world states and payoff values go to infinity, the probability that a payoff function is a homomorphism goes to zero. We conclude that natural selection almost surely shapes perceptions of these structures to be non-veridical. This is consistent with the interface theory of perception, which claims that natural selection shapes perceptual systems not to provide veridical perceptions, but to serve as species-specific interfaces that guide adaptive behavior. Our results present a constraint for any theory of consciousness which assumes that structure in perceptual experience is shaped by natural selection.",
+    "authors": [
+      "C. Prakash",
+      "C. Fields",
+      "Donald D. Hoffman",
+      "R. Prentner",
+      "Manish Singh"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Entropy",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "e9e8cba2cc2344447b706611126ca2d416aa8611": {
+    "arxiv_id": null,
+    "s2_paper_id": "e9e8cba2cc2344447b706611126ca2d416aa8611",
+    "title": "Fitness Beats Truth in the Evolution of Perception",
+    "published": "2020-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "C. Prakash",
+      "Kyle D Stephens",
+      "Donald D. Hoffman",
+      "Manish Singh",
+      "C. Fields"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Acta Biotheoretica",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "21fd5ca3947d4a33a3f86b6470629288f1c5fe08": {
+    "arxiv_id": null,
+    "s2_paper_id": "21fd5ca3947d4a33a3f86b6470629288f1c5fe08",
+    "title": "The Case Against Reality: Why Evolution Hid the Truth from Our Eyes",
+    "published": "2019-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "3836e52f99a929bd7abf2fff10e0105e35e436a3": {
+    "arxiv_id": null,
+    "s2_paper_id": "3836e52f99a929bd7abf2fff10e0105e35e436a3",
+    "title": "Did we evolve to see reality, or are spacetime and objects just our user interface?",
+    "published": "2019-01-01T00:00:00Z",
+    "summary": "We think of spacetime as an ancient stage on which life and consciousness in due course evolved. But the logic of evolution may force us to think again.",
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Annals of the New York Academy of Sciences",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "e30a395ea6c2a14349fb7864281134c6cb6182db": {
+    "arxiv_id": null,
+    "s2_paper_id": "e30a395ea6c2a14349fb7864281134c6cb6182db",
+    "title": "Do we see reality?",
+    "published": "2019-01-01T00:00:00Z",
+    "summary": "The idea that our perception matches reality is intuitive \u2013 but it may be blinding us to deeper truths, says cognitive scientist Donald Hoffman",
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "New Scientist",
+    "_topics": [
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "e879a732096df2722156c9fa9e1971d743c1d4ad": {
+    "arxiv_id": null,
+    "s2_paper_id": "e879a732096df2722156c9fa9e1971d743c1d4ad",
+    "title": "Reality is not as it seems",
+    "published": "2019-01-01T00:00:00Z",
+    "summary": "The prevalent view in cognitive science is that we construct our perception of reality in real time. But could we be misinterpreting the content of our perceptual experiences? Does what we perceive with our brain and senses reflect the true nature of reality? Might evolution have shaped our perceptions to guide adaptive behavior, without enabling us to see reality as it actually is? In a discussion moderated by Steve Paulson, cognitive scientist Donald D. Hoffman and neurologist Suzanne O'Sullivan analyze these questions and their profound implications for our understanding of human consciousness.",
+    "authors": [
+      "Steve Paulson",
+      "Donald D. Hoffman",
+      "Suzanne O'Sullivan"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Annals of the New York Academy of Sciences",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "0b924a7af1cfbca99f11cbc253fd2a68da7fc0ac": {
+    "arxiv_id": null,
+    "s2_paper_id": "0b924a7af1cfbca99f11cbc253fd2a68da7fc0ac",
+    "title": "Whitman, R. Modal Worlds: The Role of Regularities in Evolutionary Biology",
+    "published": "2018-01-01T00:00:00Z",
+    "summary": "the rescue. The division made by Linton between depth perception and depth judgments is intriguing, although I personally have the conviction that the division concerns different spaces. In my view, perceived depth relates to visual space and judged depth to physical space as we know it from interaction with the environment. A shortcoming of the book is that, apart from a short discussion on a possible implication for the function of V2, it does not discuss the new theory in relation to the neurophysiology of the visual system. At various places, Linton demonstrates having rather exceptional conceptions about the processing of neurophysiological signals. He asserts: \u201c. . . according to cue integration \u2018top-down\u2019 processing is the only way of attributing depth meaning to sensory data, without which the sensory data would have no content\u201d (p. 23). Qualifying sensory data without content ignores the fact that knowledge of the physical world is also built into the \u201cbottom-up\u201d machinery of the visual system. The one-sided attribution of meaning to\u201d top-down\u201d processing introduces a new version of the homunculus in vision. Now cognition looks down on perception and makes qualified judgments about what is seen there. The absence of content in sensory data also seems in contradiction with Linton\u2019s own view that optical and physiological signals underlie the perception of a three-dimensional visual space. Some lack of knowledge of neurophysiology is noticeable in Linton\u2019s use of the word \u201cabsence.\u201d For instance, in Chapter 3, Linton claims the absence of binocular disparity in two conditions: (a) monocular vision and (b) binocular vision at far distances. The first claim is correct because binocular disparity does not exist in monocular vision, and thus, the binocular disparity signal is indeterminate. The second claim is incorrect because binocular disparity exists in binocular vision, and thus, the binocular disparity signal is well defined. Binocular disparity may be small or even zero at far distances but not absent (and detectors of small and zero disparities generate signals that are as strong as those of large disparity detectors). My general conclusion about Linton\u2019s book is that, despite a few shortcomings, it is a valuable contribution to the scientific literature on visual perception. It contains sufficient controversial material that may be the inspiration for new experiments on visual space perception.",
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Perception",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "9cf8a90fdf7533d679b013e710650244b315e316": {
+    "arxiv_id": null,
+    "s2_paper_id": "9cf8a90fdf7533d679b013e710650244b315e316",
+    "title": "Conscious agent networks: Formal analysis and application to cognition",
+    "published": "2018-01-01T00:00:00Z",
+    "summary": "Abstract Networks of \u201cconscious agents\u201d (CAs) as defined by Hoffman and Prakash (2014) are shown to provide a robust and intuitive representation of perceptual and cognitive processes in the context of the Interface Theory of Perception (Hoffman, Singh and Prakash, 2015). The behavior of the simplest CA networks is analyzed exhaustively. The construction of short- and long-term memories and the implementation of attention, categorization and case-based planning are demonstrated. These results show that robust perception and cognition can be modelled independently of any ontological assumptions about the world in which an agent is embedded. Any agent-world interaction can, in particular, also be represented as an agent-agent interaction.",
+    "authors": [
+      "C. Fields",
+      "Donald D. Hoffman",
+      "C. Prakash",
+      "Manish Singh"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Cognitive Systems Research",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "96d96ac19fe3e0e6f5dc6297e94f06a5e4e0c919": {
+    "arxiv_id": null,
+    "s2_paper_id": "96d96ac19fe3e0e6f5dc6297e94f06a5e4e0c919",
+    "title": "Eigenforms, Interfaces and Holographic Encoding: Toward an Evolutionary Account of Objects and Spacetime",
+    "published": "2017-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "C. Fields",
+      "Donald D. Hoffman",
+      "C. Prakash",
+      "R. Prentner"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Quantum and physicalist critiques",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "1052388463b9181e560a4196d9d171c7304d416b": {
+    "arxiv_id": null,
+    "s2_paper_id": "1052388463b9181e560a4196d9d171c7304d416b",
+    "title": "\ufffd 1 The Interface Theory of Perception",
+    "published": "2016-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "492c7feff9c173002b6d503039905a9799aba2ea": {
+    "arxiv_id": null,
+    "s2_paper_id": "492c7feff9c173002b6d503039905a9799aba2ea",
+    "title": "The Origin of Time In Conscious Agents",
+    "published": "2015-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Conscious realism",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "ad9f32bab85be0ff6557419557fa89203ff5834e": {
+    "arxiv_id": null,
+    "s2_paper_id": "ad9f32bab85be0ff6557419557fa89203ff5834e",
+    "title": "Probing the interface theory of perception: Reply to commentaries",
+    "published": "2015-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "Manish Singh",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Psychonomic Bulletin & Review",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "c140123e67f184e10e1e5cfa95e08d2fee730c50": {
+    "arxiv_id": null,
+    "s2_paper_id": "c140123e67f184e10e1e5cfa95e08d2fee730c50",
+    "title": "The Interface Theory of Perception",
+    "published": "2015-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "Manish Singh",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Psychonomic Bulletin & Review",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "c5c9e96e3acad83637280c5e4ad61b6acbd04806": {
+    "arxiv_id": null,
+    "s2_paper_id": "c5c9e96e3acad83637280c5e4ad61b6acbd04806",
+    "title": "Probing the interface theory of perception: Reply to commentaries",
+    "published": "2015-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "Manish Singh",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Psychonomic Bulletin & Review",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "6096055a74046bc2c4a088cbd154739cc4d68502": {
+    "arxiv_id": null,
+    "s2_paper_id": "6096055a74046bc2c4a088cbd154739cc4d68502",
+    "title": "1 Objects of Consciousness",
+    "published": "2014-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Conscious realism",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "e063f84e842df23b340cd9bbac282b206d29f971": {
+    "arxiv_id": null,
+    "s2_paper_id": "e063f84e842df23b340cd9bbac282b206d29f971",
+    "title": "Objects of consciousness",
+    "published": "2014-01-01T00:00:00Z",
+    "summary": "Current models of visual perception typically assume that human vision estimates true properties of physical objects, properties that exist even if unperceived. However, recent studies of perceptual evolution, using evolutionary games and genetic algorithms, reveal that natural selection often drives true perceptions to extinction when they compete with perceptions tuned to fitness rather than truth: Perception guides adaptive behavior; it does not estimate a preexisting physical truth. Moreover, shifting from evolutionary biology to quantum physics, there is reason to disbelieve in preexisting physical truths: Certain interpretations of quantum theory deny that dynamical properties of physical objects have definite values when unobserved. In some of these interpretations the observer is fundamental, and wave functions are compendia of subjective probabilities, not preexisting elements of physical reality. These two considerations, from evolutionary biology and quantum physics, suggest that current models of object perception require fundamental reformulation. Here we begin such a reformulation, starting with a formal model of consciousness that we call a \u201cconscious agent.\u201d We develop the dynamics of interacting conscious agents, and study how the perception of objects and space-time can emerge from such dynamics. We show that one particular object, the quantum free particle, has a wave function that is identical in form to the harmonic functions that characterize the asymptotic dynamics of conscious agents; particles are vibrations not of strings but of interacting conscious agents. This allows us to reinterpret physical properties such as position, momentum, and energy as properties of interacting conscious agents, rather than as preexisting physical truths. We sketch how this approach might extend to the perception of relativistic quantum objects, and to classical objects of macroscopic scale.",
+    "authors": [
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Frontiers in Psychology",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "22f263aea180cc5e5bd66ce759c11d883dc44f69": {
+    "arxiv_id": null,
+    "s2_paper_id": "22f263aea180cc5e5bd66ce759c11d883dc44f69",
+    "title": "Does evolution favor true perceptions?",
+    "published": "2013-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "Manish Singh",
+      "J. Mark"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Electronic imaging",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "ed5e783b023a94cbfabaeb7f119cd5e640de2478": {
+    "arxiv_id": null,
+    "s2_paper_id": "ed5e783b023a94cbfabaeb7f119cd5e640de2478",
+    "title": "Natural Selection and Shape Perception",
+    "published": "2013-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Manish Singh",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Shape Perception in Human and Computer Vision",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "ed8f674ec981a1cc89000da76b7e8f942f2ae243": {
+    "arxiv_id": null,
+    "s2_paper_id": "ed8f674ec981a1cc89000da76b7e8f942f2ae243",
+    "title": "Public Objects and Private Qualia",
+    "published": "2013-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "60f360241d2a652fdec0b678baf248922b47dede": {
+    "arxiv_id": null,
+    "s2_paper_id": "60f360241d2a652fdec0b678baf248922b47dede",
+    "title": "Computational Evolutionary Perception",
+    "published": "2012-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "Manish Singh"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Perception",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "c25d694cc2675fb8e31b544d206cdd466da5c718": {
+    "arxiv_id": null,
+    "s2_paper_id": "c25d694cc2675fb8e31b544d206cdd466da5c718",
+    "title": "The Construction of Visual Reality",
+    "published": "2012-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious realism",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "eb57426d126d5cddf65fc6ec70626194bfd69c26": {
+    "arxiv_id": null,
+    "s2_paper_id": "eb57426d126d5cddf65fc6ec70626194bfd69c26",
+    "title": "Natural Selection and Shape Perception : Shape as an Effective Code for Fitness",
+    "published": "2012-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Manish Singh",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "83db1b0a81df24d97cc2611752d2462a73efd6a2": {
+    "arxiv_id": null,
+    "s2_paper_id": "83db1b0a81df24d97cc2611752d2462a73efd6a2",
+    "title": "Sensory Experiences as Cryptic Symbols of a Multimodal User Interface",
+    "published": "2010-01-01T00:00:00Z",
+    "summary": "According to current theories of perception, our visual experiences match or approximate the true properties of an objective physical world. Ecological optics claims this match is direct, unmediated by psychological or computational processes. Computational theories claim that this match is indirect, the result of sophisticated algorithms that instantiate, e.g., the inferential methods of Bayesian estimation. The assumption of all of these theories that there is an objective, i.e., mind independent, physical world has proved incapable, so far, of yielding a scientific theory for the mind-body problem, a scientific theory of the relationship between conscious experiences and the brain. Therefore I explore, instead, the pos-sibility that sensory experiences constitute a multimodal user interface (MuI) between the perceiver and an objective world, an interface useful precisely because it does not match, approximate, or resemble that world. I also explore conscious realism, the ontological claim that the objective world itself is comprised entirely of conscious agents. Together, MUI theory and conscious realism provide a straightforward solution to the mind-body problem, and entail epiphysicalism: physical objects, such as quarks and brains and stars, are constructed by conscious agents, but such physical objects have no causal powers.",
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Conscious realism",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "95733a4233cc8c684d12afe0d48bc593e117973f": {
+    "arxiv_id": null,
+    "s2_paper_id": "95733a4233cc8c684d12afe0d48bc593e117973f",
+    "title": "Brain activity evoked by perception of novel \u2018biological motion\u2019",
+    "published": "2010-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "John A. Pyles",
+      "Javier O. Garcia",
+      "Donald D. Hoffman",
+      "Emily D. Grossman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "f95101b578101624c1cd6b418207eac656990aab": {
+    "arxiv_id": null,
+    "s2_paper_id": "f95101b578101624c1cd6b418207eac656990aab",
+    "title": "Natural selection and veridical perceptions.",
+    "published": "2010-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "J. Mark",
+      "Brian Marion",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Journal of Theoretical Biology",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "dcf861db37b6f66a084b2493dd86632e733b260e": {
+    "arxiv_id": null,
+    "s2_paper_id": "dcf861db37b6f66a084b2493dd86632e733b260e",
+    "title": "The Interface Theory of Perception",
+    "published": "2009-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "Manish Singh",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "2cba731ed47ee4fa455b601a5d0ac2f5115b3efb": {
+    "arxiv_id": null,
+    "s2_paper_id": "2cba731ed47ee4fa455b601a5d0ac2f5115b3efb",
+    "title": "Quantum Cognitive Science",
+    "published": "2008-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Quantum and physicalist critiques"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "a99942e210221dfda38b9a8c52abbde91b5b4507": {
+    "arxiv_id": null,
+    "s2_paper_id": "a99942e210221dfda38b9a8c52abbde91b5b4507",
+    "title": "Conscious Realism and the Mind-Body Problem",
+    "published": "2008-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Conscious realism",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "e33a17f0d8350169998c5913e9b87c9324942e82": {
+    "arxiv_id": null,
+    "s2_paper_id": "e33a17f0d8350169998c5913e9b87c9324942e82",
+    "title": "Visual perception and neural correlates of novel 'biological motion'.",
+    "published": "2007-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "John A. Pyles",
+      "Javier O. Garcia",
+      "Donald D. Hoffman",
+      "Emily D. Grossman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Vision Research",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "60a7090fb9e6edfd9b62d4ba8549fdac6888193f": {
+    "arxiv_id": null,
+    "s2_paper_id": "60a7090fb9e6edfd9b62d4ba8549fdac6888193f",
+    "title": "Physics From Consciousness",
+    "published": "2006-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Conscious realism",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Quantum and physicalist critiques"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "96b65ee4a79de688d2aba89805c0cfe7a175986e": {
+    "arxiv_id": null,
+    "s2_paper_id": "96b65ee4a79de688d2aba89805c0cfe7a175986e",
+    "title": "Deriving Physics From Conscious Agents : Transforming View-Look To Space-Time Working",
+    "published": "2006-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Conscious realism",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "cf98b62b56c7a89d7195244d2fb2f674c09e6263": {
+    "arxiv_id": null,
+    "s2_paper_id": "cf98b62b56c7a89d7195244d2fb2f674c09e6263",
+    "title": "Perception, Evolution, and the Mind Body Problem",
+    "published": "2006-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "e516745737614233e40f7e2b26cd2a42ddf295e1": {
+    "arxiv_id": null,
+    "s2_paper_id": "e516745737614233e40f7e2b26cd2a42ddf295e1",
+    "title": "Vision: Form Perception",
+    "published": "2006-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman",
+      "Manish Singh"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "1989bf45572721317da905a6c6af925706f09ac8": {
+    "arxiv_id": null,
+    "s2_paper_id": "1989bf45572721317da905a6c6af925706f09ac8",
+    "title": "Perception and Evolution",
+    "published": "2005-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "60f1dca763327428be37d66bda5139bde3aa07af": {
+    "arxiv_id": null,
+    "s2_paper_id": "60f1dca763327428be37d66bda5139bde3aa07af",
+    "title": "Does perception replicate the external world?",
+    "published": "2003-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Behavioral and Brain Sciences",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "46db3052cd3ac1b164db64a4c0d4a07956eb8347": {
+    "arxiv_id": null,
+    "s2_paper_id": "46db3052cd3ac1b164db64a4c0d4a07956eb8347",
+    "title": "Facial Attention and Spacetime Fragments",
+    "published": "2002-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "T. N. Davies",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Quantum and physicalist critiques"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "12521b3bf40f962c52d83794d805b917fece9e3f": {
+    "arxiv_id": null,
+    "s2_paper_id": "12521b3bf40f962c52d83794d805b917fece9e3f",
+    "title": "16 Contours from apparent motion: A computational theory",
+    "published": "2001-01-01T00:00:00Z",
+    "summary": "Human vision readily constructs subjective contours from displays of kinetic occlusion and color from motion. To construct these contours from kinetic displays it is argued that human vision must solve the point-aperture problem, a problem more general and more difficult than the well-known aperture problem. In the aperture problem one is given a contour and its orthogonal velocity field, and must compute the full velocity field; in the point-aperture problem one is given neither the curve nor any components of its velocity field, and must construct both the curve and its full velocity field. We formalize the point-aperture problem and present, in special cases, two simple algorithms for its solution.",
+    "authors": [
+      "W. Prophet",
+      "Donald D. Hoffman",
+      "C. M. Cicerone"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism",
+      "Case against reality (public-facing synthesis)"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "ef5885734dc8c47a4442931d9aa3a5273387ddd5": {
+    "arxiv_id": null,
+    "s2_paper_id": "ef5885734dc8c47a4442931d9aa3a5273387ddd5",
+    "title": "The Generic-Viewpoint Assumption and Illusory Contours",
+    "published": "2000-01-01T00:00:00Z",
+    "summary": "Visual images are ambiguous. Any image, or collection of images, is consistent with an infinite number of possible scenes in the world. Yet we are generally unaware of this ambiguity. During ordinary perception we are generally aware of only one, or perhaps a few of these possibilities. Human vision evidently exploits certain constraints\u2014assumptions about the world and images formed of it\u2014in order to generate its perceptions. One constraint that has been widely studied by researchers in human and machine vision is the generic-viewpoint assumption. We show that this assumption can help to explain the widely discussed fact that outlines of blobs are ineffective inducers of illusory contours. We also present a number of novel effects and report an experiment suggesting that the generic-viewpoint assumption strongly influences illusory-contour perception.",
+    "authors": [
+      "M. K. Albert",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Perception",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "634efc2fde03b13228e49ae6351a182106986758": {
+    "arxiv_id": null,
+    "s2_paper_id": "634efc2fde03b13228e49ae6351a182106986758",
+    "title": "Part Boundaries Alter the Perception of Transparency",
+    "published": "1998-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Manish Singh",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "4b54766bb700279d3d87e1b3682be4e58d9a20ca": {
+    "arxiv_id": null,
+    "s2_paper_id": "4b54766bb700279d3d87e1b3682be4e58d9a20ca",
+    "title": "Constructing and representing visual objects.",
+    "published": "1997-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Manish Singh",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Trends in Cognitive Sciences",
+    "_topics": [
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "6d1b1f9ff38137d8aef58d444590740db73f9528": {
+    "arxiv_id": null,
+    "s2_paper_id": "6d1b1f9ff38137d8aef58d444590740db73f9528",
+    "title": "Color from Motion: Dichoptic Activation and a Possible Role in Breaking Camouflage",
+    "published": "1997-01-01T00:00:00Z",
+    "summary": "\u2018Color from motion\u2019 describes the perception of a spread of subjective color over achromatic regions seen as moving. The effect can be produced in a display of multiple frames shown in quick succession, each frame consisting of a fixed, random placement of colored dots on a high-luminance white background with color assignments of some dots, but not dot locations, changing from frame to frame. Evidence is presented that the perception of apparent motion and the spread of subjective color can be activated by binocular combination of disjoint signals to each eye. The dichoptic presentation of every odd-numbered frame of the full stimulus sequence presented to one eye and, out of phase, every even-numbered frame to the other eye produces a compelling perception of color from motion equal to that seen with the full sequence presented to each eye alone. This is consistent with the idea that color from motion is regulated in sites at or beyond the convergence of monocular pathways. When the background field in the stimulus display is of low luminance, an amodally complete object, fully colored and matching the dots defining the moving region in hue and saturation, is seen to move behind a partially occluding screen. Observers do not perceive such an object in still view. Hence, color from motion can be used by the visual system to produce amodal completion, which suggests that it may play a role in enhancing the visibility of camouflaged objects.",
+    "authors": [
+      "C. Cicerone",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Perception",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "e1a62fe87453591a78692a378dc7170b9e1e0026": {
+    "arxiv_id": null,
+    "s2_paper_id": "e1a62fe87453591a78692a378dc7170b9e1e0026",
+    "title": "Observer theory, Bayes theory, and psychophysics",
+    "published": "1996-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash",
+      "Scott N. Richman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "8370fc885ace6dbf8d8d66649163c66df626066e": {
+    "arxiv_id": null,
+    "s2_paper_id": "8370fc885ace6dbf8d8d66649163c66df626066e",
+    "title": "Detection of one versus two objects in structure from motion.",
+    "published": "1994-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "J. C. Liter",
+      "M. Braunstein",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Journal of The Optical Society of America A-optics Image Science and Vision",
+    "_topics": [
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "3d3d4fdc87b97175ac257a0092e7df2e5ae3af82": {
+    "arxiv_id": null,
+    "s2_paper_id": "3d3d4fdc87b97175ac257a0092e7df2e5ae3af82",
+    "title": "Lebesgue logic for probabilistic reasoning and some applications to perception",
+    "published": "1993-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "P. Murthy"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "50ee280800c4375a2468fb0a252e05c1e6dcc89b": {
+    "arxiv_id": null,
+    "s2_paper_id": "50ee280800c4375a2468fb0a252e05c1e6dcc89b",
+    "title": "Modeling performance in observer theory",
+    "published": "1993-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "R. Kakarala"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "b9bfd57f26b23c2c8c8e487b0497e77f8f72521f": {
+    "arxiv_id": null,
+    "s2_paper_id": "b9bfd57f26b23c2c8c8e487b0497e77f8f72521f",
+    "title": "No perception without representation",
+    "published": "1993-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "91fe374de2c61fea366f107e1e14c450ec3e8fe1": {
+    "arxiv_id": null,
+    "s2_paper_id": "91fe374de2c61fea366f107e1e14c450ec3e8fe1",
+    "title": "Perception is no accident",
+    "published": "1992-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "M. K. Albert",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "ab23bcb5248f2717ca93ec07a428c59cae89471d": {
+    "arxiv_id": null,
+    "s2_paper_id": "ab23bcb5248f2717ca93ec07a428c59cae89471d",
+    "title": "Topological Factors in Neon Color Spreading1",
+    "published": "1992-01-01T00:00:00Z",
+    "summary": "The human visual system is often confronted with ambiguity in its interpretation of images. Many researchers believe that the visual system can be understood, in part, by investigating the constraints that it uses to arrive at its perceptions. Recently researchers have begun to appreciate the power that these constraints can provide for understanding subjective contours [1] and neon color spreading [2]. In this paper we will study some of the topological factors involved in neon color spreading [3] [4] using the constraint of \u201cgeneral position\u201d.",
+    "authors": [
+      "M. K. Albert",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Advances in Color Vision",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "535983ef9e4a9390f1cc0e7fd587b411fb52b0d9": {
+    "arxiv_id": null,
+    "s2_paper_id": "535983ef9e4a9390f1cc0e7fd587b411fb52b0d9",
+    "title": "Unity of perception.",
+    "published": "1991-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Cognition",
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "40b20827428fd5cc243199cb242143503357a02d": {
+    "arxiv_id": null,
+    "s2_paper_id": "40b20827428fd5cc243199cb242143503357a02d",
+    "title": "Observer Mechanics: A Formal Theory of Perception",
+    "published": "1989-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "D. Massaro",
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "49b1d0d2a2193a37ee15792297c0d1d154027995": {
+    "arxiv_id": null,
+    "s2_paper_id": "49b1d0d2a2193a37ee15792297c0d1d154027995",
+    "title": "DEFINITION OF OBSERVER",
+    "published": "1989-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "54840c059d38c5258603009fda8e43e17d7190f9": {
+    "arxiv_id": null,
+    "s2_paper_id": "54840c059d38c5258603009fda8e43e17d7190f9",
+    "title": "PERCEPTIONS AND REALITIES",
+    "published": "1989-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "5c7e58c003f63572ec2716c5325d8cd4e9a1dea7": {
+    "arxiv_id": null,
+    "s2_paper_id": "5c7e58c003f63572ec2716c5325d8cd4e9a1dea7",
+    "title": "Parts of Visual Objects: An Experimental Test of the Minima Rule",
+    "published": "1989-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "M. Braunstein",
+      "Donald D. Hoffman",
+      "A. Saidpour"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Perception",
+    "_topics": [
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "be0d923a9e02ac3c3d3cbbbff8b2e47531c199b8": {
+    "arxiv_id": null,
+    "s2_paper_id": "be0d923a9e02ac3c3d3cbbbff8b2e47531c199b8",
+    "title": "RELATION TO QUANTUM MECHANICS",
+    "published": "1989-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Quantum and physicalist critiques"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "f32aedac7177082582cea79b7ad438d5b7fd3f1e": {
+    "arxiv_id": null,
+    "s2_paper_id": "f32aedac7177082582cea79b7ad438d5b7fd3f1e",
+    "title": "PERCEPTION AND COMPUTATION",
+    "published": "1989-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman",
+      "C. Prakash"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "9dc6254ec21a65ad8c377920cb4d933b9e855d36": {
+    "arxiv_id": null,
+    "s2_paper_id": "9dc6254ec21a65ad8c377920cb4d933b9e855d36",
+    "title": "Inference of 3-D shapes and part boundaries from occluding contours",
+    "published": "1985-01-01T00:00:00Z",
+    "summary": "Given the human ability to recognize familiar objects from simple line drawings or silhouettes, the study of occluding contours promises insights into the way the human visual system represents objects and their shape. Hoffman and Richards1 argued that the human visual system partitions complex surfaces into parts or primitives and represents the 3-D shape of objects in terms of spatial relationships between these parts. In the present study an outline of a theory of parts is given which is based on the notion of primitive, featureless compact surfaces, which can be combined to form surfaces with bulges, or removed to leave holes. Rules based on surface curvature have been derived to decompose an arbitrary smooth surface into its constituent parts. Koenderink2 showed that the sign of curvature of the occluding contour equals the sign of Gaussian curvature along the fold locus. Knowledge of surface curvature along folds can then be extended to regions in between folds, resulting in a so-called curvature interpretation. Expressions for the number of curvature interpretations as a function of the shape of the contour have been derived and possible constraints such as genericity and locality are discussed.",
+    "authors": [
+      "J. Beusmans",
+      "Donald D. Hoffman",
+      "B. Bennett"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Annual Meeting Optical Society of America",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "a12b324ca6805718955d1690c838abfc64ecd62c": {
+    "arxiv_id": null,
+    "s2_paper_id": "a12b324ca6805718955d1690c838abfc64ecd62c",
+    "title": "Inferring 3-D shapes from 2-D codons",
+    "published": "1985-01-01T00:00:00Z",
+    "summary": "All plane curves can be described at an abstract level by a sequence of five primitive elemental shapes, called codons, which simply capture the relations between the extrema of curvature. The codon description provides a basis for enumerating all smooth 2-D curves. Let each of these smooth plane curves be considered as the silhouette of an opaque 3-D object. Clearly an infinity of 3-D objects can generate any one of our codon silhouettes. How then can we predict which 3-D object corresponds to a given 2-D silhouette? To restrict the infinity of choices, we impose two mathematical properties of smooth surfaces plus one simple viewing constraint. The constraint is an extension of the notion of general position and seems to drive our preferred inferences of 3-D shapes, given only the 2-D contour.",
+    "authors": [
+      "W. Richards",
+      "J. Koenderink",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Annual Meeting Optical Society of America",
+    "_topics": [
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "1c24123bf6935e5cbc9a2451e568918d0017ac97": {
+    "arxiv_id": null,
+    "s2_paper_id": "1c24123bf6935e5cbc9a2451e568918d0017ac97",
+    "title": "Semi-continuity and perception (A)",
+    "published": "1984-01-01T00:00:00Z",
+    "summary": null,
+    "authors": [
+      "B. Bennett",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "7f57b51b2684eaf24116fdba57a00b3e97c3acd5": {
+    "arxiv_id": null,
+    "s2_paper_id": "7f57b51b2684eaf24116fdba57a00b3e97c3acd5",
+    "title": "The interpretation of biological motion",
+    "published": "1982-01-01T00:00:00Z",
+    "summary": "The term biological motion has been coined by Johansson (1973) to refer to the ambulatory patterns of terrestrial bipeds and quadripeds. In this paper a computational theory of the visual perception of biological motion is proposed. The specific problem addressed is how the three dimensional structure and motions of animal limbs may be computed from the two dimensional motions of their projected images. It is noted that the limbs of animals typically do not move arbitrarily during ambulation. Rather, for anatomical reasons, they typically move in single planes for extended periods of time. This simple anatomical constraint is exploited as the basis for utilizing a \u201cplanarity assumption\u201d in the interpretation of biological motion. The analysis proposed is: (1) divide the image into groups of two or three elements each; (2) test each group for pairwise-rigid planar motion; (3) combine the results from (2). Fundamental to the analysis are two \u201cstructure from planar motion\u201d propositions. The first states that the structure and motion of two points rigidly linked and rotating in a plane is recoverable from three orthographic projections. The second states that the structure and motion of three points forming two highed rods constrained to move in a plane is recoverable from two orthographic projections. The psychological relevance of the analysis and possible interactions with top down recognition processes are discussed.",
+    "authors": [
+      "Donald D. Hoffman",
+      "B. Flinchbaugh"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": "Biological cybernetics",
+    "_topics": [
+      "Conscious agents (core formalism)",
+      "Interface theory of perception",
+      "Fitness-beats-truth",
+      "Objects of consciousness",
+      "Conscious agent networks and formalism"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  },
+  "1f1c4756432b0d55309d1edd19b3b675d45187e5": {
+    "arxiv_id": null,
+    "s2_paper_id": "1f1c4756432b0d55309d1edd19b3b675d45187e5",
+    "title": "MBS 97-05 Constructing and Representing Visual Objects",
+    "published": null,
+    "summary": null,
+    "authors": [
+      "Manish Singh",
+      "Donald D. Hoffman"
+    ],
+    "_venue": null,
+    "_venue_source": null,
+    "_raw_venue": null,
+    "_topics": [
+      "Objects of consciousness"
+    ],
+    "_sources": [
+      "s2_author"
+    ]
+  }
+}
