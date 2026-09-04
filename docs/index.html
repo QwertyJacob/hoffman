@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+  <title>Conscious Agents & Physics Unification</title>
+  <meta name="description" content="A mathematical tour of Donald Hoffman & Chetan Prakash's theory of conscious agents and the derivation of spacetime, quantum wavefunctions, and physics.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@300;400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- MathJax Configuration (Must precede MathJax script) -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        tags: 'ams',
+        tagSide: 'right',
+        tagIndent: '0.8em',
+        packages: {'[+]': ['ams', 'mathtools', 'physics', 'braket', 'base', 'action', 'color']}
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+        ignoreHtmlClass: 'tex2jax_ignore',
+        processHtmlClass: 'tex2jax_process'
+      },
+      loader: {
+        load: ['[tex]/mathtools', '[tex]/physics', '[tex]/braket']
+      },
+      chtml: {
+        scale: 1.0,
+        minScale: 0.85,
+        matchFontHeight: true
+      },
+      startup: {
+        pageReady: () => {
+          return MathJax.startup.defaultPageReady();
+        }
+      }
+    };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+</head>
+<body class="theme-dark">
+  <!-- Reading Progress Bar -->
+  <div id="progress-bar" class="progress-bar" role="progressbar" aria-label="Reading progress" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-left">
+      <button id="btn-sidebar-toggle" class="icon-btn" aria-label="Toggle navigation menu" title="Chapters menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
+      <a href="#zero-to-hero" class="brand-link">
+        <span class="brand-icon">Ψ</span>
+        <div class="brand-text">
+          <span class="brand-title">Conscious Agents</span>
+          <span class="brand-subtitle">Physics Unification Tour</span>
+        </div>
+      </a>
+    </div>
+
+    <div class="header-center">
+      <span id="current-chapter-header" class="current-chapter-pill">Loading...</span>
+    </div>
+
+    <div class="header-right">
+      <!-- Font size controls -->
+      <div class="font-controls" title="Adjust text size">
+        <button id="btn-font-dec" class="font-btn" aria-label="Decrease font size">A−</button>
+        <button id="btn-font-reset" class="font-btn" aria-label="Reset font size">100%</button>
+        <button id="btn-font-inc" class="font-btn" aria-label="Increase font size">A+</button>
+      </div>
+
+      <!-- Theme selector -->
+      <div class="theme-selector">
+        <button id="btn-theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme" title="Change theme (Dark / Sepia / Light)">
+          <span class="theme-icon theme-icon-dark">🌙</span>
+          <span class="theme-icon theme-icon-sepia">📜</span>
+          <span class="theme-icon theme-icon-light">☀️</span>
+        </button>
+      </div>
+
+      <!-- Table of Contents Toggle (mobile/tablet) -->
+      <button id="btn-toc-toggle" class="icon-btn mobile-only" aria-label="Table of contents" title="Table of Contents">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="8" y1="6" x2="21" y2="6"></line>
+          <line x1="8" y1="12" x2="21" y2="12"></line>
+          <line x1="8" y1="18" x2="21" y2="18"></line>
+          <line x1="3" y1="6" x2="3.01" y2="6"></line>
+          <line x1="3" y1="12" x2="3.01" y2="12"></line>
+          <line x1="3" y1="18" x2="3.01" y2="18"></line>
+        </svg>
+      </button>
+
+      <!-- GitHub Link -->
+      <a href="https://github.com/QwertyJacob/hoffman" target="_blank" rel="noopener noreferrer" class="icon-btn github-link" title="GitHub Repository" aria-label="View on GitHub">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+        </svg>
+      </a>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <div class="app-layout">
+    <!-- Overlay for mobile drawer -->
+    <div id="drawer-backdrop" class="drawer-backdrop"></div>
+
+    <!-- Left Sidebar: Chapter Directory -->
+    <aside id="sidebar" class="app-sidebar" aria-label="Chapters Directory">
+      <div class="sidebar-header">
+        <h2 class="sidebar-heading">Tutorial Chapters</h2>
+        <button id="btn-sidebar-close" class="close-btn mobile-only" aria-label="Close menu">&times;</button>
+      </div>
+
+      <!-- Quick Search / Filter -->
+      <div class="search-box">
+        <input type="text" id="chapter-search" placeholder="Filter sections..." aria-label="Filter chapters and sections">
+        <span class="search-icon">🔍</span>
+      </div>
+
+      <nav id="chapters-nav" class="chapters-nav" aria-label="Chapter selection">
+        <!-- Rendered dynamically by app.js -->
+      </nav>
+
+      <!-- Status Legend -->
+      <div class="legend-card">
+        <div class="legend-title">Epistemic Status Tags</div>
+        <div class="legend-item"><span class="badge badge-solid"><span class="badge-dot"></span>SOLID</span> <span class="legend-desc">Proven theorem, direct calculation</span></div>
+        <div class="legend-item"><span class="badge badge-sketch"><span class="badge-dot"></span>SKETCH</span> <span class="legend-desc">Mathematical, conjectural physics</span></div>
+        <div class="legend-item"><span class="badge badge-aspiration"><span class="badge-dot"></span>ASPIRATION</span> <span class="legend-desc">Stated goal, open research</span></div>
+      </div>
+    </aside>
+
+    <!-- Center Main Content -->
+    <main id="main-content" class="app-main">
+      <article id="article-container" class="article-container tex2jax_process">
+        <!-- Loading State -->
+        <div id="loading-spinner" class="loading-state">
+          <div class="spinner"></div>
+          <p>Rendering mathematical proofs & equations...</p>
+        </div>
+
+        <!-- Rendered Content Target -->
+        <div id="content-body" class="content-body"></div>
+
+        <!-- Next / Previous Chapter Navigation -->
+        <nav class="chapter-pagination" aria-label="Chapter pagination">
+          <button id="btn-prev-chapter" class="page-nav-btn prev-btn" aria-label="Previous chapter">
+            <span class="nav-dir">← Previous</span>
+            <span class="nav-title" id="prev-chapter-title"></span>
+          </button>
+          <button id="btn-next-chapter" class="page-nav-btn next-btn" aria-label="Next chapter">
+            <span class="nav-dir">Next →</span>
+            <span class="nav-title" id="next-chapter-title"></span>
+          </button>
+        </nav>
+      </article>
+
+      <footer class="app-footer">
+        <p>Mathematical Foundations of Conscious Agents & Physics Unification &bull; Donald Hoffman & Chetan Prakash Research</p>
+      </footer>
+    </main>
+
+    <!-- Right Sidebar / Floating Drawer: Table of Contents -->
+    <aside id="toc-sidebar" class="app-toc" aria-label="Table of Contents">
+      <div class="toc-header">
+        <h3 class="toc-heading">On This Page</h3>
+        <button id="btn-toc-close" class="close-btn mobile-only" aria-label="Close Table of Contents">&times;</button>
+      </div>
+      <nav id="toc-nav" class="toc-nav">
+        <!-- Built dynamically from current chapter H2/H3 headings -->
+      </nav>
+    </aside>
+  </div>
+
+  <!-- Floating Scroll-To-Top Button -->
+  <button id="btn-back-to-top" class="back-to-top-btn" aria-label="Scroll to top" title="Back to top">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
+
+  <!-- Pre-bundled content -->
+  <script src="content-bundle.js"></script>
+  <!-- Application logic -->
+  <script src="app.js"></script>
+</body>
+</html>
