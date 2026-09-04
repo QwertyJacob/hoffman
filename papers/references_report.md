@@ -70,7 +70,7 @@ Short bibliographic data for every paper in [`hoffman_conscious_agents.bib`](hof
 
 **The interpretation of biological motion** (1982)
 
-**Authors:** Donald D. Hoffman, B. Flinchbaugh · **Venue:** Biological cybernetics · **Type:** article · [DOI](https://doi.org/10.1007/BF00340076) · [Semantic Scholar](https://www.semanticscholar.org/paper/7f57b51b2684eaf24116fdba57a00b3e97c3acd5)
+**Authors:** Donald D. Hoffman, B. Flinchbaugh · **Venue:** Biological cybernetics · **Type:** article · [DOI](https://doi.org/10.1007/BF00340076) · [Semantic Scholar](https://www.semanticscholar.org/paper/7f57b51b2684eaf24116fdba57a00b3e97c3acd5) · [Local PDF](hoffman1982interpretation.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Interface theory of perception, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism
 
@@ -100,7 +100,7 @@ Given the human ability to recognize familiar objects from simple line drawings 
 
 **Inferring 3-D shapes from 2-D codons** (1985)
 
-**Authors:** W. Richards, J. Koenderink, Donald D. Hoffman · **Venue:** Annual Meeting Optical Society of America · **Type:** inproceedings · [DOI](https://doi.org/10.1364/oam.1985.ww4) · [Semantic Scholar](https://www.semanticscholar.org/paper/a12b324ca6805718955d1690c838abfc64ecd62c)
+**Authors:** W. Richards, J. Koenderink, Donald D. Hoffman · **Venue:** Annual Meeting Optical Society of America · **Type:** inproceedings · [DOI](https://doi.org/10.1364/oam.1985.ww4) · [Semantic Scholar](https://www.semanticscholar.org/paper/a12b324ca6805718955d1690c838abfc64ecd62c) · [Local PDF](richards1985inferring.pdf)
 
 **Matched topics:** Objects of consciousness
 
@@ -110,7 +110,7 @@ All plane curves can be described at an abstract level by a sequence of five pri
 
 **Parts of Visual Objects: An Experimental Test of the Minima Rule** (1989)
 
-**Authors:** M. Braunstein, Donald D. Hoffman, A. Saidpour · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p180817) · [Semantic Scholar](https://www.semanticscholar.org/paper/5c7e58c003f63572ec2716c5325d8cd4e9a1dea7)
+**Authors:** M. Braunstein, Donald D. Hoffman, A. Saidpour · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p180817) · [Semantic Scholar](https://www.semanticscholar.org/paper/5c7e58c003f63572ec2716c5325d8cd4e9a1dea7) · [Local PDF](braunstein1989parts.pdf)
 
 **Matched topics:** Objects of consciousness
 
@@ -132,7 +132,7 @@ _No abstract available._
 
 **Unity of perception.** (1991)
 
-**Authors:** B. Bennett, Donald D. Hoffman, C. Prakash · **Venue:** Cognition · **Type:** article · [DOI](https://doi.org/10.1016/0010-0277(91)90009-S) · [Semantic Scholar](https://www.semanticscholar.org/paper/535983ef9e4a9390f1cc0e7fd587b411fb52b0d9)
+**Authors:** B. Bennett, Donald D. Hoffman, C. Prakash · **Venue:** Cognition · **Type:** article · [DOI](https://doi.org/10.1016/0010-0277(91)90009-S) · [Semantic Scholar](https://www.semanticscholar.org/paper/535983ef9e4a9390f1cc0e7fd587b411fb52b0d9) · [Local PDF](bennett1991unity.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -142,7 +142,7 @@ _No abstract available._
 
 **Perception is no accident** (1992)
 
-**Authors:** M. K. Albert, Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1364/OPN.3.9.000050) · [Semantic Scholar](https://www.semanticscholar.org/paper/91fe374de2c61fea366f107e1e14c450ec3e8fe1)
+**Authors:** M. K. Albert, Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1364/OPN.3.9.000050) · [Semantic Scholar](https://www.semanticscholar.org/paper/91fe374de2c61fea366f107e1e14c450ec3e8fe1) · [Local PDF](albert1992perception.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -152,7 +152,7 @@ _No abstract available._
 
 **Topological Factors in Neon Color Spreading1** (1992)
 
-**Authors:** M. K. Albert, Donald D. Hoffman · **Venue:** Advances in Color Vision · **Type:** incollection · [DOI](https://doi.org/10.1364/acv.1992.sab9) · [Semantic Scholar](https://www.semanticscholar.org/paper/ab23bcb5248f2717ca93ec07a428c59cae89471d)
+**Authors:** M. K. Albert, Donald D. Hoffman · **Venue:** Advances in Color Vision · **Type:** incollection · [DOI](https://doi.org/10.1364/acv.1992.sab9) · [Semantic Scholar](https://www.semanticscholar.org/paper/ab23bcb5248f2717ca93ec07a428c59cae89471d) · [Local PDF](albert1992topological.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -162,7 +162,7 @@ The human visual system is often confronted with ambiguity in its interpretation
 
 **Lebesgue logic for probabilistic reasoning and some applications to perception** (1993)
 
-**Authors:** B. Bennett, Donald D. Hoffman, P. Murthy · **Type:** misc · [DOI](https://doi.org/10.1006/JMPS.1993.1004) · [Semantic Scholar](https://www.semanticscholar.org/paper/3d3d4fdc87b97175ac257a0092e7df2e5ae3af82)
+**Authors:** B. Bennett, Donald D. Hoffman, P. Murthy · **Type:** misc · [DOI](https://doi.org/10.1006/JMPS.1993.1004) · [Semantic Scholar](https://www.semanticscholar.org/paper/3d3d4fdc87b97175ac257a0092e7df2e5ae3af82) · [Local PDF](bennett1993lebesgue.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -172,7 +172,7 @@ _No abstract available._
 
 **Modeling performance in observer theory** (1993)
 
-**Authors:** B. Bennett, Donald D. Hoffman, R. Kakarala · **Type:** misc · [DOI](https://doi.org/10.1006/JMPS.1993.1014) · [Semantic Scholar](https://www.semanticscholar.org/paper/50ee280800c4375a2468fb0a252e05c1e6dcc89b)
+**Authors:** B. Bennett, Donald D. Hoffman, R. Kakarala · **Type:** misc · [DOI](https://doi.org/10.1006/JMPS.1993.1014) · [Semantic Scholar](https://www.semanticscholar.org/paper/50ee280800c4375a2468fb0a252e05c1e6dcc89b) · [Local PDF](bennett1993modeling.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Interface theory of perception, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism
 
@@ -182,7 +182,7 @@ _No abstract available._
 
 **No perception without representation** (1993)
 
-**Authors:** Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1017/S0140525X00029836) · [Semantic Scholar](https://www.semanticscholar.org/paper/b9bfd57f26b23c2c8c8e487b0497e77f8f72521f)
+**Authors:** Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1017/S0140525X00029836) · [Semantic Scholar](https://www.semanticscholar.org/paper/b9bfd57f26b23c2c8c8e487b0497e77f8f72521f) · [Local PDF](hoffman1993no.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -192,7 +192,7 @@ _No abstract available._
 
 **Detection of one versus two objects in structure from motion.** (1994)
 
-**Authors:** J. C. Liter, M. Braunstein, Donald D. Hoffman · **Venue:** Journal of The Optical Society of America A-optics Image Science and Vision · **Type:** article · [DOI](https://doi.org/10.1364/JOSAA.11.003162) · [Semantic Scholar](https://www.semanticscholar.org/paper/8370fc885ace6dbf8d8d66649163c66df626066e)
+**Authors:** J. C. Liter, M. Braunstein, Donald D. Hoffman · **Venue:** Journal of The Optical Society of America A-optics Image Science and Vision · **Type:** article · [DOI](https://doi.org/10.1364/JOSAA.11.003162) · [Semantic Scholar](https://www.semanticscholar.org/paper/8370fc885ace6dbf8d8d66649163c66df626066e) · [Local PDF](liter1994detection.pdf)
 
 **Matched topics:** Objects of consciousness
 
@@ -202,7 +202,7 @@ _No abstract available._
 
 **Observer theory, Bayes theory, and psychophysics** (1996)
 
-**Authors:** B. Bennett, Donald D. Hoffman, C. Prakash, Scott N. Richman · **Type:** misc · [DOI](https://doi.org/10.1017/CBO9780511984037.007) · [Semantic Scholar](https://www.semanticscholar.org/paper/e1a62fe87453591a78692a378dc7170b9e1e0026)
+**Authors:** B. Bennett, Donald D. Hoffman, C. Prakash, Scott N. Richman · **Type:** misc · [DOI](https://doi.org/10.1017/CBO9780511984037.007) · [Semantic Scholar](https://www.semanticscholar.org/paper/e1a62fe87453591a78692a378dc7170b9e1e0026) · [Local PDF](bennett1996observer.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Interface theory of perception, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism
 
@@ -212,7 +212,7 @@ _No abstract available._
 
 **Color from Motion: Dichoptic Activation and a Possible Role in Breaking Camouflage** (1997)
 
-**Authors:** C. Cicerone, Donald D. Hoffman · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p261367) · [Semantic Scholar](https://www.semanticscholar.org/paper/6d1b1f9ff38137d8aef58d444590740db73f9528)
+**Authors:** C. Cicerone, Donald D. Hoffman · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p261367) · [Semantic Scholar](https://www.semanticscholar.org/paper/6d1b1f9ff38137d8aef58d444590740db73f9528) · [Local PDF](cicerone1997color.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism
 
@@ -222,7 +222,7 @@ _No abstract available._
 
 **Constructing and Representing Visual Objects** (1997)
 
-**Authors:** Manish Singh, Donald D. Hoffman · **Type:** techreport · [Semantic Scholar](https://www.semanticscholar.org/paper/1f1c4756432b0d55309d1edd19b3b675d45187e5)
+**Authors:** Manish Singh, Donald D. Hoffman · **Type:** techreport · [Semantic Scholar](https://www.semanticscholar.org/paper/1f1c4756432b0d55309d1edd19b3b675d45187e5) · [Local PDF](singh1997constructing.pdf)
 
 **Matched topics:** Objects of consciousness
 
@@ -234,7 +234,7 @@ _No abstract available._
 
 **Constructing and representing visual objects.** (1997)
 
-**Authors:** Manish Singh, Donald D. Hoffman · **Venue:** Trends in Cognitive Sciences · **Type:** article · [DOI](https://doi.org/10.1016/S1364-6613(97)89055-9) · [Semantic Scholar](https://www.semanticscholar.org/paper/4b54766bb700279d3d87e1b3682be4e58d9a20ca)
+**Authors:** Manish Singh, Donald D. Hoffman · **Venue:** Trends in Cognitive Sciences · **Type:** article · [DOI](https://doi.org/10.1016/S1364-6613(97)89055-9) · [Semantic Scholar](https://www.semanticscholar.org/paper/4b54766bb700279d3d87e1b3682be4e58d9a20ca) · [Local PDF](singh1997constructingrepresenting.pdf)
 
 **Matched topics:** Objects of consciousness
 
@@ -244,7 +244,7 @@ _No abstract available._
 
 **Part Boundaries Alter the Perception of Transparency** (1998)
 
-**Authors:** Manish Singh, Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1111/1467-9280.00070) · [Semantic Scholar](https://www.semanticscholar.org/paper/634efc2fde03b13228e49ae6351a182106986758)
+**Authors:** Manish Singh, Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1111/1467-9280.00070) · [Semantic Scholar](https://www.semanticscholar.org/paper/634efc2fde03b13228e49ae6351a182106986758) · [Local PDF](singh1998part.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -254,7 +254,7 @@ _No abstract available._
 
 **The Generic-Viewpoint Assumption and Illusory Contours** (2000)
 
-**Authors:** M. K. Albert, Donald D. Hoffman · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p3016) · [Semantic Scholar](https://www.semanticscholar.org/paper/ef5885734dc8c47a4442931d9aa3a5273387ddd5)
+**Authors:** M. K. Albert, Donald D. Hoffman · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p3016) · [Semantic Scholar](https://www.semanticscholar.org/paper/ef5885734dc8c47a4442931d9aa3a5273387ddd5) · [Local PDF](albert2000generic.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -264,7 +264,7 @@ Visual images are ambiguous. Any image, or collection of images, is consistent w
 
 **Contours from Apparent Motion: A Computational Theory** (2001)
 
-**Authors:** W. Prophet, Donald D. Hoffman, C. M. Cicerone · **Type:** misc · [DOI](https://doi.org/10.1016/S0166-4115(01)80036-4) · [Semantic Scholar](https://www.semanticscholar.org/paper/12521b3bf40f962c52d83794d805b917fece9e3f)
+**Authors:** W. Prophet, Donald D. Hoffman, C. M. Cicerone · **Type:** misc · [DOI](https://doi.org/10.1016/S0166-4115(01)80036-4) · [Semantic Scholar](https://www.semanticscholar.org/paper/12521b3bf40f962c52d83794d805b917fece9e3f) · [Local PDF](prophet2001contours.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Interface theory of perception, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism, Case against reality (public-facing synthesis)
 
@@ -274,7 +274,7 @@ Human vision readily constructs subjective contours from displays of kinetic occ
 
 **Facial Attention and Spacetime Fragments** (2002)
 
-**Authors:** T. N. Davies, Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1023/B:AXIO.0000007209.55057.56) · [Semantic Scholar](https://www.semanticscholar.org/paper/46db3052cd3ac1b164db64a4c0d4a07956eb8347)
+**Authors:** T. N. Davies, Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1023/B:AXIO.0000007209.55057.56) · [Semantic Scholar](https://www.semanticscholar.org/paper/46db3052cd3ac1b164db64a4c0d4a07956eb8347) · [Local PDF](davies2002facial.pdf)
 
 **Matched topics:** Interface theory of perception, Quantum and physicalist critiques
 
@@ -284,7 +284,7 @@ _No abstract available._
 
 **Does perception replicate the external world?** (2003)
 
-**Authors:** Donald D. Hoffman · **Venue:** Behavioral and Brain Sciences · **Type:** article · [DOI](https://doi.org/10.1017/S0140525X03290099) · [Semantic Scholar](https://www.semanticscholar.org/paper/60f1dca763327428be37d66bda5139bde3aa07af)
+**Authors:** Donald D. Hoffman · **Venue:** Behavioral and Brain Sciences · **Type:** article · [DOI](https://doi.org/10.1017/S0140525X03290099) · [Semantic Scholar](https://www.semanticscholar.org/paper/60f1dca763327428be37d66bda5139bde3aa07af) · [Local PDF](hoffman2003perception.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -294,7 +294,7 @@ _No abstract available._
 
 **Perception and Evolution** (2005)
 
-**Authors:** B. Bennett, Donald D. Hoffman, C. Prakash · **Type:** misc · [DOI](https://doi.org/10.1002/0470013427.CH8) · [Semantic Scholar](https://www.semanticscholar.org/paper/1989bf45572721317da905a6c6af925706f09ac8)
+**Authors:** B. Bennett, Donald D. Hoffman, C. Prakash · **Type:** misc · [DOI](https://doi.org/10.1002/0470013427.CH8) · [Semantic Scholar](https://www.semanticscholar.org/paper/1989bf45572721317da905a6c6af925706f09ac8) · [Local PDF](bennett2005perception.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness, Case against reality (public-facing synthesis)
 
@@ -324,7 +324,7 @@ _No abstract available._
 
 **Physics From Consciousness** (2006)
 
-**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/60a7090fb9e6edfd9b62d4ba8549fdac6888193f)
+**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/60a7090fb9e6edfd9b62d4ba8549fdac6888193f) · [Local PDF](hoffman2006physics.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Conscious realism, Objects of consciousness, Conscious agent networks and formalism, Quantum and physicalist critiques
 
@@ -334,7 +334,7 @@ _No abstract available._
 
 **Vision: Form Perception** (2006)
 
-**Authors:** Donald D. Hoffman, Manish Singh · **Type:** misc · [DOI](https://doi.org/10.1002/0470018860.S00629) · [Semantic Scholar](https://www.semanticscholar.org/paper/e516745737614233e40f7e2b26cd2a42ddf295e1)
+**Authors:** Donald D. Hoffman, Manish Singh · **Type:** misc · [DOI](https://doi.org/10.1002/0470018860.S00629) · [Semantic Scholar](https://www.semanticscholar.org/paper/e516745737614233e40f7e2b26cd2a42ddf295e1) · [Local PDF](hoffman2006vision.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -344,7 +344,7 @@ _No abstract available._
 
 **Visual perception and neural correlates of novel 'biological motion'.** (2007)
 
-**Authors:** John A. Pyles, Javier O. Garcia, Donald D. Hoffman, Emily D. Grossman · **Venue:** Vision Research · **Type:** article · [DOI](https://doi.org/10.1016/J.VISRES.2007.07.017) · [Semantic Scholar](https://www.semanticscholar.org/paper/e33a17f0d8350169998c5913e9b87c9324942e82)
+**Authors:** John A. Pyles, Javier O. Garcia, Donald D. Hoffman, Emily D. Grossman · **Venue:** Vision Research · **Type:** article · [DOI](https://doi.org/10.1016/J.VISRES.2007.07.017) · [Semantic Scholar](https://www.semanticscholar.org/paper/e33a17f0d8350169998c5913e9b87c9324942e82) · [Local PDF](pyles2007visual.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -354,7 +354,7 @@ _No abstract available._
 
 **Conscious Realism and the Mind-Body Problem** (2008)
 
-**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/a99942e210221dfda38b9a8c52abbde91b5b4507)
+**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/a99942e210221dfda38b9a8c52abbde91b5b4507) · [Local PDF](hoffman2008conscious.pdf)
 
 **Matched topics:** Conscious realism, Conscious agents (core formalism), Conscious agent networks and formalism
 
@@ -364,7 +364,7 @@ _No abstract available._
 
 **Quantum Cognitive Science** (2008)
 
-**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/2cba731ed47ee4fa455b601a5d0ac2f5115b3efb)
+**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/2cba731ed47ee4fa455b601a5d0ac2f5115b3efb) · [Local PDF](hoffman2008quantum.pdf)
 
 **Matched topics:** Quantum and physicalist critiques
 
@@ -374,7 +374,7 @@ _No abstract available._
 
 **The Interface Theory of Perception** (2009)
 
-**Authors:** Donald D. Hoffman, Manish Singh, C. Prakash · **Type:** misc · [DOI](https://doi.org/10.1177/0963721416639702) · [Semantic Scholar](https://www.semanticscholar.org/paper/dcf861db37b6f66a084b2493dd86632e733b260e)
+**Authors:** Donald D. Hoffman, Manish Singh, C. Prakash · **Type:** misc · [DOI](https://doi.org/10.1177/0963721416639702) · [Semantic Scholar](https://www.semanticscholar.org/paper/dcf861db37b6f66a084b2493dd86632e733b260e) · [Local PDF](hoffman2009interface.pdf)
 
 **Matched topics:** Interface theory of perception, Conscious agents (core formalism), Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism
 
@@ -384,7 +384,7 @@ _No abstract available._
 
 **Sensory Experiences as Cryptic Symbols of a Multimodal User Interface** (2010)
 
-**Authors:** Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1007/BF03379572) · [Semantic Scholar](https://www.semanticscholar.org/paper/83db1b0a81df24d97cc2611752d2462a73efd6a2)
+**Authors:** Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1007/BF03379572) · [Semantic Scholar](https://www.semanticscholar.org/paper/83db1b0a81df24d97cc2611752d2462a73efd6a2) · [Local PDF](hoffman2010sensory.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Interface theory of perception, Conscious realism, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism, Quantum and physicalist critiques
 
@@ -394,7 +394,7 @@ According to current theories of perception, our visual experiences match or app
 
 **Natural selection and veridical perceptions.** (2010)
 
-**Authors:** J. Mark, Brian Marion, Donald D. Hoffman · **Venue:** Journal of Theoretical Biology · **Type:** article · [DOI](https://doi.org/10.1016/j.jtbi.2010.07.020) · [Semantic Scholar](https://www.semanticscholar.org/paper/f95101b578101624c1cd6b418207eac656990aab)
+**Authors:** J. Mark, Brian Marion, Donald D. Hoffman · **Venue:** Journal of Theoretical Biology · **Type:** article · [DOI](https://doi.org/10.1016/j.jtbi.2010.07.020) · [Semantic Scholar](https://www.semanticscholar.org/paper/f95101b578101624c1cd6b418207eac656990aab) · [Local PDF](mark2010natural.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -414,7 +414,7 @@ _No abstract available._
 
 **Computational Evolutionary Perception** (2012)
 
-**Authors:** Donald D. Hoffman, Manish Singh · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p7275) · [Semantic Scholar](https://www.semanticscholar.org/paper/60f360241d2a652fdec0b678baf248922b47dede)
+**Authors:** Donald D. Hoffman, Manish Singh · **Venue:** Perception · **Type:** article · [DOI](https://doi.org/10.1068/p7275) · [Semantic Scholar](https://www.semanticscholar.org/paper/60f360241d2a652fdec0b678baf248922b47dede) · [Local PDF](hoffman2012computational.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness, Case against reality (public-facing synthesis)
 
@@ -424,7 +424,7 @@ _No abstract available._
 
 **The Construction of Visual Reality** (2012)
 
-**Authors:** Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1007/978-1-4614-0959-5_2) · [Semantic Scholar](https://www.semanticscholar.org/paper/c25d694cc2675fb8e31b544d206cdd466da5c718)
+**Authors:** Donald D. Hoffman · **Type:** misc · [DOI](https://doi.org/10.1007/978-1-4614-0959-5_2) · [Semantic Scholar](https://www.semanticscholar.org/paper/c25d694cc2675fb8e31b544d206cdd466da5c718) · [Local PDF](hoffman2012construction.pdf)
 
 **Matched topics:** Conscious realism, Case against reality (public-facing synthesis)
 
@@ -434,7 +434,7 @@ _No abstract available._
 
 **Natural Selection and Shape Perception : Shape as an Effective Code for Fitness** (2012)
 
-**Authors:** Manish Singh, Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/eb57426d126d5cddf65fc6ec70626194bfd69c26)
+**Authors:** Manish Singh, Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/eb57426d126d5cddf65fc6ec70626194bfd69c26) · [Local PDF](singh2012natural.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -464,7 +464,7 @@ _No abstract available._
 
 **Natural Selection and Shape Perception** (2013)
 
-**Authors:** Manish Singh, Donald D. Hoffman · **Venue:** Shape Perception in Human and Computer Vision · **Type:** incollection · [DOI](https://doi.org/10.1007/978-1-4471-5195-1_12) · [Semantic Scholar](https://www.semanticscholar.org/paper/ed5e783b023a94cbfabaeb7f119cd5e640de2478)
+**Authors:** Manish Singh, Donald D. Hoffman · **Venue:** Shape Perception in Human and Computer Vision · **Type:** incollection · [DOI](https://doi.org/10.1007/978-1-4471-5195-1_12) · [Semantic Scholar](https://www.semanticscholar.org/paper/ed5e783b023a94cbfabaeb7f119cd5e640de2478) · [Local PDF](singh2013natural.pdf)
 
 **Matched topics:** Interface theory of perception, Fitness-beats-truth, Objects of consciousness
 
@@ -496,7 +496,7 @@ _No abstract available._
 
 **The Origin of Time In Conscious Agents** (2015)
 
-**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/492c7feff9c173002b6d503039905a9799aba2ea)
+**Authors:** Donald D. Hoffman · **Type:** unpublished · [Semantic Scholar](https://www.semanticscholar.org/paper/492c7feff9c173002b6d503039905a9799aba2ea) · [Local PDF](hoffman2015origin.pdf)
 
 **Matched topics:** Interface theory of perception, Conscious agents (core formalism), Conscious realism, Conscious agent networks and formalism
 
@@ -538,7 +538,7 @@ _No abstract available._
 
 **Conscious agent networks: Formal analysis and application to cognition** (2018)
 
-**Authors:** C. Fields, Donald D. Hoffman, C. Prakash, Manish Singh · **Venue:** Cognitive Systems Research · **Type:** article · [DOI](https://doi.org/10.1016/j.cogsys.2017.10.003) · [Semantic Scholar](https://www.semanticscholar.org/paper/9cf8a90fdf7533d679b013e710650244b315e316)
+**Authors:** C. Fields, Donald D. Hoffman, C. Prakash, Manish Singh · **Venue:** Cognitive Systems Research · **Type:** article · [DOI](https://doi.org/10.1016/j.cogsys.2017.10.003) · [Semantic Scholar](https://www.semanticscholar.org/paper/9cf8a90fdf7533d679b013e710650244b315e316) · [Local PDF](fields2018conscious.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Interface theory of perception, Conscious realism, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism, Case against reality (public-facing synthesis)
 
@@ -600,7 +600,7 @@ The prevalent view in cognitive science is that we construct our perception of r
 
 **Fact, Fiction, and Fitness** (2020)
 
-**Authors:** C. Prakash, C. Fields, Donald D. Hoffman, R. Prentner, Manish Singh · **Venue:** Entropy · **Type:** article · [DOI](https://doi.org/10.3390/e22050514) · [Semantic Scholar](https://www.semanticscholar.org/paper/01768ba08412668d8b182624445ba2fb7dd2a2b1)
+**Authors:** C. Prakash, C. Fields, Donald D. Hoffman, R. Prentner, Manish Singh · **Venue:** Entropy · **Type:** article · [DOI](https://doi.org/10.3390/e22050514) · [Semantic Scholar](https://www.semanticscholar.org/paper/01768ba08412668d8b182624445ba2fb7dd2a2b1) · [Local PDF](prakash2020fact.pdf)
 
 **Matched topics:** Conscious agents (core formalism), Interface theory of perception, Conscious realism, Fitness-beats-truth, Objects of consciousness, Conscious agent networks and formalism, Quantum and physicalist critiques, Case against reality (public-facing synthesis)
 
@@ -610,7 +610,7 @@ A theory of consciousness, whatever else it may do, must address the structure o
 
 **Fitness Beats Truth in the Evolution of Perception** (2020)
 
-**Authors:** C. Prakash, Kyle D Stephens, Donald D. Hoffman, Manish Singh, C. Fields · **Venue:** Acta Biotheoretica · **Type:** article · [DOI](https://doi.org/10.1007/s10441-020-09400-0) · [Semantic Scholar](https://www.semanticscholar.org/paper/e9e8cba2cc2344447b706611126ca2d416aa8611)
+**Authors:** C. Prakash, Kyle D Stephens, Donald D. Hoffman, Manish Singh, C. Fields · **Venue:** Acta Biotheoretica · **Type:** article · [DOI](https://doi.org/10.1007/s10441-020-09400-0) · [Semantic Scholar](https://www.semanticscholar.org/paper/e9e8cba2cc2344447b706611126ca2d416aa8611) · [Local PDF](prakash2020fitness.pdf)
 
 **Matched topics:** Fitness-beats-truth, Interface theory of perception, Objects of consciousness, Case against reality (public-facing synthesis)
 
@@ -620,7 +620,7 @@ _No abstract available._
 
 **Perceptual Representations: Meaning and Truth Conditions** (2022)
 
-**Authors:** B. Bennett, Donald D. Hoffman · **Venue:** Cognition and Representation · **Type:** incollection · [DOI](https://doi.org/10.4324/9780429042553-8) · [Semantic Scholar](https://www.semanticscholar.org/paper/04e1e4015f87834a756e0cc5e2c772b1fe2d9ed8)
+**Authors:** B. Bennett, Donald D. Hoffman · **Venue:** Cognition and Representation · **Type:** incollection · [DOI](https://doi.org/10.4324/9780429042553-8) · [Semantic Scholar](https://www.semanticscholar.org/paper/04e1e4015f87834a756e0cc5e2c772b1fe2d9ed8) · [Local PDF](bennett2022perceptual.pdf)
 
 **Matched topics:** Fitness-beats-truth, Case against reality (public-facing synthesis)
 
@@ -640,7 +640,7 @@ What are conscious experiences? Can they combine to form new experiences? What a
 
 **Interfacing consciousness** (2024)
 
-**Authors:** R. Prentner, Donald D. Hoffman · **Venue:** Frontiers in Psychology · **Type:** article · [DOI](https://doi.org/10.3389/fpsyg.2024.1429376) · [Semantic Scholar](https://www.semanticscholar.org/paper/26da480d36a702a42df18ccc9525dd516379b52c)
+**Authors:** R. Prentner, Donald D. Hoffman · **Venue:** Frontiers in Psychology · **Type:** article · [DOI](https://doi.org/10.3389/fpsyg.2024.1429376) · [Semantic Scholar](https://www.semanticscholar.org/paper/26da480d36a702a42df18ccc9525dd516379b52c) · [Local PDF](prentner2024interfacing.pdf)
 
 **Matched topics:** Conscious agents (core formalism)
 
