@@ -9,7 +9,8 @@
   // State
   let currentChapterIndex = 0;
   let chapters = window.HOFFMAN_CHAPTERS || [];
-  let currentFontScale = parseFloat(localStorage.getItem('hoffman_font_scale')) || 1.0;
+  let savedFontScale = parseFloat(localStorage.getItem('hoffman_font_scale'));
+  let currentFontScale = Number.isFinite(savedFontScale) ? savedFontScale : 1.0;
   let currentTheme = localStorage.getItem('hoffman_theme') || 'dark';
 
   // DOM Elements
