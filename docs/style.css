@@ -18,7 +18,7 @@
   --transition-fast: 0.15s ease;
   --transition-normal: 0.25s ease;
 
-  --font-scale: 1rem;
+  --font-scale: 1;
 }
 
 /* --- Dark Theme (Default) --- */
@@ -117,7 +117,7 @@ body {
   background-color: var(--bg-app);
   color: var(--text-primary);
   line-height: 1.7;
-  font-size: var(--font-scale);
+  font-size: 1rem;
   transition: background-color var(--transition-normal), color var(--transition-normal);
   overflow-x: hidden;
   min-height: 100vh;
@@ -552,12 +552,12 @@ body {
 
 /* --- Typography & Markdown Rendering --- */
 .content-body {
-  font-size: 1.05rem;
+  font-size: calc(1.05rem * var(--font-scale, 1));
   color: var(--text-primary);
 }
 
 .content-body h1 {
-  font-size: 2.2rem;
+  font-size: calc(2.2rem * var(--font-scale, 1));
   font-weight: 800;
   line-height: 1.25;
   letter-spacing: -0.02em;
@@ -567,7 +567,7 @@ body {
 }
 
 .content-body h2 {
-  font-size: 1.55rem;
+  font-size: calc(1.55rem * var(--font-scale, 1));
   font-weight: 700;
   line-height: 1.3;
   letter-spacing: -0.015em;
@@ -579,7 +579,7 @@ body {
 }
 
 .content-body h3 {
-  font-size: 1.25rem;
+  font-size: calc(1.25rem * var(--font-scale, 1));
   font-weight: 600;
   line-height: 1.35;
   margin-top: 2rem;
@@ -588,7 +588,7 @@ body {
 }
 
 .content-body h4 {
-  font-size: 1.1rem;
+  font-size: calc(1.1rem * var(--font-scale, 1));
   font-weight: 600;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
@@ -705,7 +705,7 @@ body {
 .content-body table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.95rem;
+  font-size: 0.9em;
   text-align: left;
 }
 
@@ -1092,16 +1092,16 @@ mjx-container[jax="CHTML"][display="true"] {
   }
 
   .content-body h1 {
-    font-size: 1.75rem;
+    font-size: calc(1.75rem * var(--font-scale, 1));
   }
 
   .content-body h2 {
-    font-size: 1.35rem;
+    font-size: calc(1.35rem * var(--font-scale, 1));
     margin-top: 2rem;
   }
 
   .content-body h3 {
-    font-size: 1.15rem;
+    font-size: calc(1.15rem * var(--font-scale, 1));
   }
 
   .content-body p {

@@ -428,7 +428,7 @@
   // --- Font Size Controller ---
   function applyFontScale(scale) {
     currentFontScale = Math.min(Math.max(scale, 0.8), 1.4);
-    document.documentElement.style.setProperty('--font-scale', `${currentFontScale}rem`);
+    document.documentElement.style.setProperty('--font-scale', currentFontScale);
     localStorage.setItem('hoffman_font_scale', currentFontScale);
     btnFontReset.textContent = `${Math.round(currentFontScale * 100)}%`;
   }
